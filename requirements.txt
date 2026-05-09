@@ -1,0 +1,33 @@
+# --- Core Deep Learning ---
+torch
+torchvision
+torchaudio
+
+# --- Vision / Image Processing ---
+opencv-python
+Pillow
+albumentations
+scikit-image
+
+# --- Utilities ---
+numpy
+tqdm
+PyYAML
+scipy
+termcolor
+
+# --- Model / Research ---
+timm
+torchinfo
+torchmetrics
+einops
+
+# --- Visualization ---
+matplotlib
+
+# --- Optional (logging / experiments) ---
+tensorboard
+wandb
+
+# --- Environment ---
+python-dotenv
