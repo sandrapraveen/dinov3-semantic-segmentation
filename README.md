@@ -6,7 +6,7 @@ PyTorch project exploring semantic segmentation using DINOv3 features and custom
 
 - DINOv3 transformer backbone
 - Custom decoder architectures
-- DPT-style decoder experiments
+- decoder experiments
 - Boundary-aware loss experiments
 - Semantic segmentation training pipeline
 - Inference and visualization utilities
